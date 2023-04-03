@@ -13,7 +13,6 @@
 ### 🧓 20 Anos
 ### .
 ### .
-### .
 
 ![Gabriel Vale GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielCVALE&show_icons=true&theme=radical)
 
